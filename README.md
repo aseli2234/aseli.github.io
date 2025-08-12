@@ -1,2 +1,60 @@
-# aseli.github.io
-ntah
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="https://files.catbox.moe/qznetd.jpeg" type="image/x-icon">
+  <meta name="keywords" content="HACKED BY AMBAKERR👾">
+  <meta name="description" content="HACKED BY AMBAKERRR👾 — KU DI TINGGAL AISYAH KU DI TINGGAL MAIMUNAH">
+  <meta name="author" content="HACKED BY AMBAKERR👾">
+  <meta name="theme-color" content="#343a40" />
+  <title>HACKED BY AMBAKERR👾</title>
+  <link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://rawcdn.githack.com/nako48/shiraookaaaa/f37b3bb82ba199ac8df3a394d8652e56872935a9/style-css.css">
+  <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
+  <style>
+    body {
+      color: #FFFFFF;
+      font-family: "Kelly Slab", sans-serif;
+      font-weight: 60;
+      height: 67vh;
+      margin: 0;
+      background-color: black;
+    }
+    .hmm {
+      height: 67vh;
+    }
+    .ya {
+      align-items: center;
+      display: flex;
+      justify-content: center;
+    }
+    .udah {
+      position: relative;
+    }
+    .iya {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="hmm ya udah">
+    <div class="iya">
+      <center>
+        <img style="width:500px;" src="https://files.catbox.moe/lpqp6z.jpeg"><br />
+      </center>
+      <div class="glitch" data-text="HACKED BY AMBAKERR">
+        <span style="color: red; font-size: 28px;">H4CK3D BY AMBAKERR FORM NGAWI</span>
+      </div>
+      <br>
+      <span style="font-size: 24px; color: red;">SLOW YA!!.<br>WEBSITE ANDA TELAH SAYA RETAS.</span>
+      <br><br>
+      <span style="font-size: 20px; color: magenta;">Pesan:</span><br>
+      <span style="font-size: 22px; color: white;"><b>W3B 1N1 D1 R3T4S 0L3H AMBATUKAMM</b></span>
+      <br><br>
+      <audio autoplay="autoplay" controls="controls" width="100px" height="100px">
+        <source src="https://l.top4top.io/m_3511ksxpq1.mp3" type="audio/mp3">
+      </audio>
+    </div>
+  </div>
+</body>
+</html>
